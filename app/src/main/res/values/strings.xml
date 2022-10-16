@@ -13,6 +13,9 @@
     <string name="Hora">Hora</string>
     <string name="Desconectado">Desconectado</string>
     <string name="Conectar">Conectar</string>
+    <string name="prender">prender</string>
+    <string name="Apagar">Apagar</string>
+
 
 
     <!-- TODO: Remove or change this placeholder text -->
